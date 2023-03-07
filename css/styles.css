@@ -147,6 +147,36 @@ p{
     padding: 3% 2%;
 }
 
+#cta{
+    background-color: #f44d66;
+    font-family: 'Montserrat';
+    padding: 7% 17% 4%;
+    color: aliceblue;
+    text-align: center;
+}
+
+#cta h3{
+    margin-left:10%;
+    margin-right:10%;
+    margin: auto 10%;
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+.footer-btn{
+    margin: 3% 3% 3% 0%;
+}
+
+#footer{
+    padding: 4% 17% 1%;
+    text-align: center;
+
+}
+
+.footer-icons {
+    padding: 0% 2% 2%;
+    font-size: 1.5rem;
+}
 
 @media (max-width : 1028px){
 
