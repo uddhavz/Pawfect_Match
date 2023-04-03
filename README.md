@@ -1,1 +1,1 @@
-TinDog Starting Files
+Prototype of Tinder using Bootstrap
